@@ -4,6 +4,6 @@
      message: "Happy New Year, Webprog 1241!"
     }
    }
-  })
+  }
   
   app.mount('#app')
