@@ -1,9 +1,9 @@
   const app = Vue.createApp({
    data() {
     return {
-     message: "Happy New Year, Webprog 1241!"
+     message: "Happy New Year, Ebriwan!!"
     }
    }
-  }
+  })
   
   app.mount('#app')
