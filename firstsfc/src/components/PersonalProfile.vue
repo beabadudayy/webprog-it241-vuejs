@@ -12,6 +12,7 @@
         <div>7 Picture Gallery</div>
       </section>
       <aside class="sidebar"></aside>
+    </main>
   </div>
 </template>
 
