@@ -12,8 +12,6 @@
         <div>7 Picture Gallery</div>
       </section>
       <aside class="sidebar"></aside>
-    </main>
-    <footer>Asia Pacific College</footer>
   </div>
 </template>
 
