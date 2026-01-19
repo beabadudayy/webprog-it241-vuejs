@@ -45,12 +45,4 @@ header h1 {
   padding: 15px;
   margin-top: 20px;
 }
-
-footer {
-  text-align: center;
-  margin-top: 20px;
-  padding: 10px;
-  background-color: #333;
-  color: white;
-}
 </style>
